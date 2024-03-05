@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FI-TY-MI)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **FI-TY-MI/FI-TY-MI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
